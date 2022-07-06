@@ -10,7 +10,7 @@
   ],
   "success_url": "https://t.me/rename1robot",
   "website": "https://github.com/No-OnE-Kn0wS-Me",
-  "repository": "https://https://github.com/salman7736/FileRenameBot?organization=salman7736&organization=salman7736",
+  "repository": "https://https://github.com/salman7736/FileRenameBot?",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
